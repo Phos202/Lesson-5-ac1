@@ -1,6 +1,8 @@
+import java.util.Scanner;
 class Main {
   public static void main(String[] args) {
-  Scanner scan = new Scanner(System.in);
+  
+	Scanner scan = new Scanner(System.in);
        /* Write your code here */
       
       System.out.println("Please enter a two digit number:");
